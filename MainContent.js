@@ -1,6 +1,6 @@
 import React from 'react';
 import backIMG from './images/back_img2.png'
-import backIMG2 from './images/back-gray-img.png'
+import backIMG2 from './images/proba.png'
  
 
 export default function MainContent (props){
